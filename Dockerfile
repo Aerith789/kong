@@ -1,1 +1,1 @@
-FROM kong/kubernetes-ingress-controller
+FROM kong/kubernetes-ingress-controller:3.2
